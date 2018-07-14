@@ -1,0 +1,71 @@
+html{
+  background-color: black;
+  text-align: center;
+}
+body{
+  background-color: black;
+  font-family: Helvetica;
+}
+
+.header{
+  background-image: url(../images/the-flatiron-building.png);
+}
+.header a{
+  color: white;
+  font-size: 18px;
+}
+.header h1{
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+.ourprocess h1{
+  color: black;
+  font-size: 32px;
+  font-weight: bold;
+}
+.ourprocess{
+  background-color: white;
+  display:inline-block;
+  width: 100%;
+}
+.ourprocess h2{
+  font-size: 23px;
+  font-weight: bold;
+}
+.ourprocess p{
+  font-size: 14px;
+}
+.break {
+  background-image: url(../images/the-flatiron-building.png);
+  display:inline-block;
+  width: 100%;
+}
+.break h1{
+  padding: 10px;
+  margin: 0px;
+  color: white;
+  font-weight: bold;
+  font-size: 23px;
+}
+.bottom{
+  background-color: black;
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+.footer{
+  background-color: dimgrey;
+  color: white;
+  text-align: left;
+
+
+}
+.footer a{
+  color: white;
+}
+.footer p{
+  display: inline;
+  font-size: 11px;
+
+}
